@@ -1,0 +1,12 @@
+frmCarpetQuote = 52, 52, 1067, 550, , 26, 26, 1041, 524, C
+Room = 156, 156, 1171, 654, 
+Carpet = 182, 182, 1197, 680, 
+CarpetQuote = 208, 208, 1223, 706, 
+MathsFunctions = 182, 182, 1197, 680, 
+RoomFactory = 130, 130, 1145, 628, 
+CarpetFactory = 208, 208, 1223, 706, 
+RectangularRoom = 0, 0, 1015, 498, 
+CircularRoom = 104, 104, 1119, 602, 
+FloorLevel = 208, 208, 1223, 706, 
+FittingCalculator = 26, 26, 1041, 524, 
+StairsFunctions = 182, 182, 1081, 680, 
